@@ -44,7 +44,7 @@ namespace Code_Playground
 
             foreach (int num in commonNums)
             {
-                Console.WriteLine($"{num}");
+                Console.WriteLine(num);
             }
         }
     }
